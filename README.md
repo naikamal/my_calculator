@@ -48,4 +48,10 @@ Contributions are welcome. If you'd like to contribute to this project, feel fre
 - The calculator is not responsive and is designed only for full-screen viewing.
 - Division by zero is not handled explicitly.
 
+
+## Repository Link
+
+The project repository can be found at [https://github.com/naikamal/my_calculator.git](https://github.com/naikamal/my_calculator.git).
+
+
 Feel free to adjust any section or add more details as needed.
